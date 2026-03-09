@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+out/
+build/
+install/
+
+# FetchContent dependency cache (GoogleTest etc.)
+.deps/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CTestTestfile.cmake
+
+# Doxygen
+docs/
+
+# Compiled binaries
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.obj
+*.lib
